@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "decent-mariner-267508",
+  "private_key_id": "bd2f267e1fceafaf0c33402b3f295ea2e8fe03d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDO88+HU7AxQuvW\nJjNyctRi9sm8ul4BILXvCGrRIb40BiRlMhLBnTUtWSvGk010kMGbRE7PjNjWn4XU\nnkNe231JpU28Y2t3IFJCxYK1pqQUtDtjSwRDRBj96l6lj8TJf5W5gOGqDWJrJhzy\nlWFJ69O8lRVV9RCuDJRooJ7DRcMvZLbVdFUcHtFr696omvflu0MhIarW1D9XYj+h\n/EfVmx6FlRyFvRf4wu3cXf1PO0hrDxexAtC21r7AUPYlR4Y+JTTrR618vaePC/gZ\nWjXHcm7OYkKas3MCoLoLpMlaUheXr4voHUE+3XyMxkRK26FBCWuWtxgSMW0DKhDz\nX3NfYjNtAgMBAAECggEAHMvCAaN8ba5RIHAaUn912/tY4MDR2bhSeFskecsHKzf7\nknUgNP6J6rBwreXLLkACIHelu61ucpapyYbn+ufxi/DLWz4+Mso1iALxiBMS26qk\nZNGIW0+7ZoFZABJ8IEl3bONpAv9vxVb9SifM7Ls6sA/Scy5xTraDY/eNf8BSQ2Kw\nw6Hj0070uvjpZBaKIhpYD4Vh3qSF7FpINTSHReX/BcZw9zgVEgkr4EvU0Qh/DZsr\nJ1lu8TWQXHF5T2byAh56L71E4UiF3An1I+30vMnkdlKWMBAOcxklRWJWK+mbdc0/\nKMuUpjWwubDQllE31+DPEM3jQH5sfJj5/jdn+InPQQKBgQD/Vx9ys+RI5d6rRf3z\nfN3RsOStMDO90b59+rfNCfXaANga0EqyemUyRjqIgg2UefX1RD/hXe4IJmuzLSF4\nQbJ4Im7re/79SU/maISIvgCCAPe1sdHVCf0UdUUDBTp/G+Gf0WRqonwDlU7hgi+3\nSqJausf/FC38u1HwXYOxpSCRXQKBgQDPfK9aBY6q8Yap2rZyBISPANv1bLqZIpdq\npAS2Ph7pSW9AQ/kyM1HN2VqlJb2o/YdFyFkXMXrf7L6ONYmlotMh5flVXzphRCO9\nFMXS6jW6mfThj3YN1rz1YoF5oRe5vSrKJaLfYCdyajbzMGEtrCiavNuyis9VzpU2\nTwS12qi5UQKBgBEyjv2svA1k3hBvEGGb4VzEK0K24mVAgTH+9u4qY5KhR+zWZpGK\nyNIQBNU43S1I4ZX5WMwXBXcrD0nsGjr9QcXxm8LkgRISI/2CwJptIZ+f7Q8hwN42\nZANCurkvWvdAq3uWIMtF0lBzd/KcUBZqQnEV725wr4A8JZKo2bvXQVBJAoGAFKEc\n/iJXUP+6l+C7CxMP6vf25qvs0ZTy4RN1tHjwsdkvSoB3olof5AucS5c5CDhM3s9Q\nrFGrGeB8Ab+o8+MAgvpOlAJn14vi0cXi9Vl8BhWQl2ygHDghiXRF00YFCd6ZBog/\nbV4uDd4poHxK7TOUxe3JGjNa8fkcNM4edcZLyEECgYAdkfk6MBVoGt+f/O8cUBrZ\nEEdPO7ZJ9+VotNHRGz6lzAAhyGBRzRPoRqKjsLQOe/mkb78jekX8CBdRJQZmEJX9\njoWJ1ZNcq6IHLF0fnY8EJn735BYovvck1EJULEbtJZpw1U8Gbn4LDWw+0XsIWq1F\nOhmc09nWyf91bCdu7an5xw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-gcp@decent-mariner-267508.iam.gserviceaccount.com",
+  "client_id": "115675751739627709663",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-gcp%40decent-mariner-267508.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
